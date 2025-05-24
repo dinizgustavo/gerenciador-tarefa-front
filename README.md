@@ -19,7 +19,7 @@ Este é um projeto de teste para vaga de desenvolvedor, feito em Vue.js, que per
 2. **Instale as dependências:**
 
    ```bash
-   npm install
+   npm install -g npm
    ```
 
 3. **Configure a URL da API:**
