@@ -12,7 +12,7 @@ Este é um projeto de teste para vaga de desenvolvedor, feito em Vue.js, que per
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/dinizgustavo/gerenciador-tarefa-front.git
    cd seu-repo
    ```
 
