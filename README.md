@@ -50,6 +50,7 @@ Este é um projeto de teste para vaga de desenvolvedor, feito em Vue.js, que per
 - O projeto foi desenvolvido com [Vite](https://vitejs.dev/) para um ambiente moderno e rápido.
 - O frontend espera que o backend da API de tarefas esteja rodando e acessível.
 - A URL da API é configurada via arquivo `.env` para facilitar a troca de ambientes.
+- Lembre-se de rodar o back-end e o front-end RESPECTIVAMENTE. A mudança de ordem pode inviabilizar o uso das portas corretas.
 
 ## Scripts úteis
 
