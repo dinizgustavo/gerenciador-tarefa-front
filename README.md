@@ -5,7 +5,7 @@ Este é um projeto de teste para vaga de desenvolvedor, feito em Vue.js, que per
 ## Pré-requisitos
 
 - [Node.js](https://nodejs.org/) (versão 18 ou superior recomendada)
-- [npm](https://www.npmjs.com/) (geralmente já vem com o Node)
+- [npm](https://www.npmjs.com/)
 
 ## Como rodar o projeto
 
@@ -13,7 +13,7 @@ Este é um projeto de teste para vaga de desenvolvedor, feito em Vue.js, que per
 
    ```bash
    git clone https://github.com/dinizgustavo/gerenciador-tarefa-front.git
-   cd seu-repo
+   cd gerenciador-tarefa-front
    ```
 
 2. **Instale as dependências:**
